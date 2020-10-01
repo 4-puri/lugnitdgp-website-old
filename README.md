@@ -1,10 +1,10 @@
-# lugnitdgp.github.io
+# lugnitdgp.github.io :-
 
 This is the repository for the official NIT Durgapur's GLUG website. It is
 presently based on `Jekyll` static site generator. So, make sure `jekyll`
 is installed when you are running locally.
 
-## Run locally
+## Run locally :-
 To run an instance of this site locally or as a template for your own website,
 follow the steps given here.
 
@@ -18,7 +18,7 @@ follow the steps given here.
    `bundle exec jekyll serve`
 5. Open your browser and put the link: `http://localhost:4000`
 
-## Contributing
+## Contributing :-
 You can just contribute by reporting issues if you are not part of our team.
 If you really want to contribute real code then fork this repository and get
 started. You can contact us on https://gitter.im/lugnitdgp for further help
